@@ -23,9 +23,7 @@ void setup()
 
 void loop()
 {
-  int rgbR, rgbG, rgbB;
-  int rgR, rgG;
-
+  // [r,g], [r,g,b]
   // [255,0], [255,255,255]
 
   //Strip 1 Fade in Green (leave red)
